@@ -1,0 +1,27 @@
+{
+  "name": "Network",
+  "version": "0.1.0",
+  "summary": "Network.",
+  "description": "TODO: Add long description of Network.",
+  "homepage": "https://github.com/LovePlayModule/Network",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "YunsChou": "2647754496@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/LovePlayModule/Network.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "Network/Classes/**/*",
+  "dependencies": {
+    "AFNetworking": [
+
+    ]
+  }
+}
